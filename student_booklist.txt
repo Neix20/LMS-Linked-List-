@@ -1,0 +1,396 @@
+
+STUDENT 1
+
+Name: Audrey Chan
+Id: 1310983
+Course: IA
+Phone No: 521-3879
+Total Fine: RM0.50
+
+BOOK LIST: 
+
+Book 1
+
+Title: Advanced topics in C: Core Concepts in Data Structures
+Author: Noel Kalicharan	
+Publisher: Apress
+Year Published: 2013
+ISBN: 2361589071
+Call Number: QA76.73.C15K35
+Borrow Date: 28/2/2020
+Due Date: 28/3/2020
+Fine: RM0.50
+
+Book 2
+
+Title: Data Structures and Other Objects Using C++
+Author: Micheal Main	Walter Savitch	
+Publisher: Prentice Hall
+Year Published: 2010
+ISBN: 0132129485
+Call Number: QA76.73.C153N868
+Borrow Date: 20/3/2020
+Due Date: 20/4/2020
+Fine: RM0.00
+
+************************************************************************************************************************
+
+STUDENT 2
+
+Name: Ben Affleck
+Id: 1201237
+Course: IA
+Phone No: 432-4579
+Total Fine: RM0.00
+
+BOOK LIST: 
+
+Book 1
+
+Title: Starting Out with Java:From Control Structures Through Data Structures
+Author: Tony Gaddis	Godfrey Muganda	
+Publisher: Addison-Wesley
+Year Published: 2011
+ISBN: 0321545869
+Call Number: QA76.73.C153S26
+Borrow Date: 30/2/2020
+Due Date: 30/3/2020
+Fine: RM0.00
+
+Book 2
+
+Title: Data Structures and Other Objects Using C++
+Author: Micheal Main	Walter Savitch	
+Publisher: Prentice Hall
+Year Published: 2010
+ISBN: 0132129485
+Call Number: QA76.73.C153N868
+Borrow Date: 29/2/2020
+Due Date: 29/3/2020
+Fine: RM0.00
+
+************************************************************************************************************************
+
+STUDENT 3
+
+Name: Ben Ma
+Id: 1603679
+Course: IB
+Phone No: 693-2367
+Total Fine: RM6.00
+
+BOOK LIST: 
+
+Book 1
+
+Title: Starting Out with Java:From Control Structures Through Data Structures
+Author: Tony Gaddis	Godfrey Muganda	
+Publisher: Addison-Wesley
+Year Published: 2011
+ISBN: 0321545869
+Call Number: QA76.73.C153S26
+Borrow Date: 17/2/2020
+Due Date: 17/3/2020
+Fine: RM6.00
+
+Book 2
+
+Title: Advanced topics in C: Core Concepts in Data Structures
+Author: Noel Kalicharan	
+Publisher: Apress
+Year Published: 2013
+ISBN: 2361589071
+Call Number: QA76.73.C15K35
+Borrow Date: 26/3/2020
+Due Date: 26/4/2020
+Fine: RM0.00
+
+Book 3
+
+Title: Data Structures and Other Objects Using C++
+Author: Micheal Main	Walter Savitch	
+Publisher: Prentice Hall
+Year Published: 2010
+ISBN: 0132129485
+Call Number: QA76.73.C153N868
+Borrow Date: 29/2/2020
+Due Date: 29/3/2020
+Fine: RM0.00
+
+************************************************************************************************************************
+
+STUDENT 4
+
+Name: Hong Yee
+Id: 1909446
+Course: IB
+Phone No: 723-5566
+Total Fine: RM0.00
+
+BOOK LIST: 
+
+************************************************************************************************************************
+
+STUDENT 5
+
+Name: Johnny Pak
+Id: 1202002
+Course: CS
+Phone No: 856-7414
+Total Fine: RM348.50
+
+BOOK LIST: 
+
+Book 1
+
+Title: Learning with Python: How to Think Like a Computer Scientist
+Author: Allen B.Downey	Jeffrey Elkner	Chris Meyers	
+Publisher: Green Tea Press
+Year Published: 2002
+ISBN: 0971677506
+Call Number: QA76.73.C183T67
+Borrow Date: 16/4/2019
+Due Date: 30/4/2019
+Fine: RM167.00
+
+Book 2
+
+Title: Mobile Media and Communication
+Author: Ellie	Wang	
+Publisher: SAGE Publications Inc.
+Year Published: 2013
+ISBN: 20501579
+Call Number: QA76.73.C153N140
+Borrow Date: 25/4/2019
+Due Date: 9/5/2019
+Fine: RM162.50
+
+Book 3
+
+Title: Object-Oriented Data Structures Using Java
+Author: Nell Dale	Daniel Joyce	Chip Weems	
+Publisher: Jones & Bartlett Learning
+Year Published: 2011
+ISBN: 1449613543
+Call Number: QA76.58.M532
+Borrow Date: 20/1/2020
+Due Date: 20/2/2020
+Fine: RM19.00
+
+************************************************************************************************************************
+
+STUDENT 6
+
+Name: Ken Wong
+Id: 1502378
+Course: CS
+Phone No: 892-3765
+Total Fine: RM10.00
+
+BOOK LIST: 
+
+Book 1
+
+Title: Advanced topics in C: Core Concepts in Data Structures
+Author: Noel Kalicharan	
+Publisher: Apress
+Year Published: 2013
+ISBN: 2361589071
+Call Number: QA76.73.C15K35
+Borrow Date: 12/3/2020
+Due Date: 12/4/2020
+Fine: RM0.00
+
+Book 2
+
+Title: Object-Oriented Data Structures Using Java
+Author: Nell Dale	Daniel Joyce	Chip Weems	
+Publisher: Jones & Bartlett Learning
+Year Published: 2011
+ISBN: 1449613543
+Call Number: QA76.58.M532
+Borrow Date: 9/2/2020
+Due Date: 9/3/2020
+Fine: RM10.00
+
+************************************************************************************************************************
+
+STUDENT 7
+
+Name: Lucas Loo
+Id: 1203207
+Course: CN
+Phone No: 856-9293
+Total Fine: RM59.50
+
+BOOK LIST: 
+
+Book 1
+
+Title: Data Mining and Knowledge Discovery
+Author: Matt Gavitch	
+Publisher: Kluwer Academic Publishers
+Year Published: 1997
+ISBN: 13845810
+Call Number: QA76.79.C153S40
+Borrow Date: 8/11/2019
+Due Date: 1/12/2019
+Fine: RM59.50
+
+Book 2
+
+Title: Foundations of Software Engineering
+Author: Ashfaque Ahmed	Bhanu Prasad	
+Publisher: Auerbach Publications
+Year Published: 2016
+ISBN: 9781498737593
+Call Number: QA76.73.C153S26
+Borrow Date: 9/3/2020
+Due Date: 29/3/2020
+Fine: RM0.00
+
+************************************************************************************************************************
+
+STUDENT 8
+
+Name: Matt Damon
+Id: 1200233
+Course: CS
+Phone No: 790-3233
+Total Fine: RM190.00
+
+BOOK LIST: 
+
+Book 1
+
+Title: Advanced topics in C: Core Concepts in Data Structures
+Author: Noel Kalicharan	
+Publisher: Apress
+Year Published: 2013
+ISBN: 2361589071
+Call Number: QA76.73.C15K35
+Borrow Date: 12/2/2020
+Due Date: 12/3/2020
+Fine: RM8.50
+
+Book 2
+
+Title: Object-Oriented Data Structures Using Java
+Author: Nell Dale	Daniel Joyce	Chip Weems	a	a	a	a	a	a	
+Publisher: Jones & Bartlett Learning
+Year Published: 2011
+ISBN: 1449613543
+Call Number: QA76.58.M532
+Borrow Date: 20/1/2020
+Due Date: 20/2/2020
+Fine: RM19.00
+
+Book 3
+
+Title: Data Structures and Other Objects Using C++
+Author: Micheal Main	Walter Savitch	
+Publisher: Prentice Hall
+Year Published: 2010
+ISBN: 0132129485
+Call Number: QA76.73.C153N868
+Borrow Date: 13/3/2020
+Due Date: 13/4/2020
+Fine: RM0.00
+
+Book 4
+
+Title: Mobile Media and Communication
+Author: Ellie	Wang	
+Publisher: SAGE Publications Inc.
+Year Published: 2013
+ISBN: 20501579
+Call Number: QA76.73.C153n140
+Borrow Date: 25/4/2019
+Due Date: 9/5/2019
+Fine: RM162.50
+
+************************************************************************************************************************
+
+STUDENT 9
+
+Name: Michelle Walker
+Id: 1610989
+Course: CT
+Phone No: 632-7184
+Total Fine: RM0.00
+
+BOOK LIST: 
+
+Book 1
+
+Title: Starting Out with Java:From Control Structures Through Data Structures
+Author: Tony Gaddis	Godfrey Muganda	
+Publisher: Addison-Wesley
+Year Published: 2011
+ISBN: 0321545869
+Call Number: QA76.73.C153S26
+Borrow Date: 30/2/2020
+Due Date: 30/3/2020
+Fine: RM0.00
+
+************************************************************************************************************************
+
+STUDENT 10
+
+Name: Salma Hayek
+Id: 1300899
+Course: IB
+Phone No: 790-0000
+Total Fine: RM1.00
+
+BOOK LIST: 
+
+Book 1
+
+Title: Data Structures and Other Objects Using C++
+Author: Micheal Main	Walter Savitch	
+Publisher: Prentice Hall
+Year Published: 2010
+ISBN: 0132129485
+Call Number: QA76.73.C153N868
+Borrow Date: 27/2/2020
+Due Date: 27/3/2020
+Fine: RM1.00
+
+************************************************************************************************************************
+
+STUDENT 11
+
+Name: Swayzanah Diwazalin
+Id: 1201288
+Course: CS
+Phone No: 874-9134
+Total Fine: RM58.00
+
+BOOK LIST: 
+
+Book 1
+
+Title: Foundations of Software Engineering
+Author: Ashfaque Ahmed	Bhanu Prasad	
+Publisher: Auerbach Publications
+Year Published: 2016
+ISBN: 9781498737593
+Call Number: QA76.73.C153S26
+Borrow Date: 17/1/2020
+Due Date: 31/1/2020
+Fine: RM29.00
+
+Book 2
+
+Title: Software Engineering Quality Practices
+Author: Kandt	Ronald Krik	Taylor	Francis	a	a	a	a	a	
+Publisher: Elsevier Inc.
+Year Published: 2005
+ISBN: 9780849346330
+Call Number: QA76.73.C163S11
+Borrow Date: 17/1/2020
+Due Date: 31/1/2020
+Fine: RM29.00
+
+************************************************************************************************************************
